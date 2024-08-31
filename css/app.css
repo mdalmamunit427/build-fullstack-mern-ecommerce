@@ -7738,7 +7738,7 @@ header.base {
 header .header-image {
     position: absolute;
     box-sizing: border-box;
-    background: url(https://assets-cdn.reedsy.com/learning/vite/assets/tom-landing-BDEHYHuJ.jpg) no-repeat center center #121a20;
+    background: url(https://res.cloudinary.com/dn2gccqlw/image/upload/v1725044047/header-image_pmg8be.png) no-repeat center center #121a20;
     background-size: cover;
     height: 480px;
     top: -60px;
