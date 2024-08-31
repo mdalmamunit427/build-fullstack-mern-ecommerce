@@ -7760,14 +7760,14 @@ header .header-image {
         height: 100%;
         background-position: center right;
         background-size: cover;
-        margin-left: 150px
+        margin-left: -150px
     }
 }
 
 @media (min-width: 1200px) {
     header .header-image {
-        margin-left:210px;
-        width: 1200px
+        margin-left: -500px;
+        width: 2000px;
     }
 }
 
